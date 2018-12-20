@@ -3,3 +3,4 @@ Conversion functions needed
 - Dollars to cents
 - Gallons to Litres
 - Inches to cm
+- Celcius to Fahrenheit
